@@ -126,7 +126,7 @@ plt.ylabel('Voltage [mV]')
 subject = 112;
 observation = 8;
 t = 0:1/125:10-(1/125);
-plot(t,ECG_BD{subject,observation},'b','LineWidth',1.5);
+plot(t,ECG_DB{subject,observation},'b','LineWidth',1.5);
 xlabel("Time [s]");
 ylabel("Amplitude [mV]");
 ```
