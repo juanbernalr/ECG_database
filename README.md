@@ -81,7 +81,6 @@ function [ECG_DB] = read_DB_downloaded()
         end
     end
 end
-
 ```
 
 ```
@@ -96,7 +95,6 @@ function [ECG_DB] = read_DB_GitHub()
         end
     end
 end
-
 ```
 
 Functions to obtain the matrix with the lead-I ECG signals from the database:
