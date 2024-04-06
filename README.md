@@ -6,7 +6,7 @@ When using this database (repository), cite the original publication:
  author = "Bernal-Romero, Juan Carlos and Ramírez-Cortés, Juan Manuel",
  booktitle = "", 
  title = "An open-access database of lead-I ECG signals with practical variability scenarios", 
- year = "2023",
+ year = "2024",
  volume = "",
  number = "",
  pages = "",
@@ -27,7 +27,7 @@ The **5620 raw recordings** have a sampling rate of **125 Hz** and a resolution 
 ------------
 ## Labeled information for each user
 
-The files **Database_information.ods** and **Database_information.xlsx** have the same information. This information consists of sex, age, variability scenario, acquisition posture, heart medical antecedents, heart rhythm, smoking habits and observations of the ECG signals for each subject identified with a number from **1** to **562**.
+The files **Database_information.ods** and **Database_information.xlsx** have the same information. This information consists of sex, age, variability scenarios, acquisition postures, heart medical antecedents, heart rhythm, smoking habits and observations of the ECG signals for each subject identified with a number from **1** to **562**.
 
 ------------
 ## Read database from Python
