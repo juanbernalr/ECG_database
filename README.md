@@ -3,14 +3,14 @@ License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ "CC-BY-4.0")
 When using this database (repository), cite the original publication:
 ```
 @inproceedings{reference1,
- author="Bernal-Romero, Juan Carlos and Ramírez-Cortés, Juan Manuel",
- booktitle="", 
- title="An open-access database of lead-I ECG signals with practical variability scenarios", 
- year="2023",
- volume="",
- number="",
- pages="",
- keywords="ECG database; Lead-I ECG; Intra-user variability; ECG biometric system; ECG morphology variability",
+ author = "Bernal-Romero, Juan Carlos and Ramírez-Cortés, Juan Manuel",
+ booktitle = "", 
+ title = "An open-access database of lead-I ECG signals with practical variability scenarios", 
+ year = "2023",
+ volume = "",
+ number = "",
+ pages = "",
+ keywords = "ECG database; Lead-I ECG; Intra-user variability; ECG biometric system; ECG morphology variability",
  doi=""}
 ```
 
