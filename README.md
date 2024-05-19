@@ -4,8 +4,8 @@ When using this database (repository), cite the original publication:
 ```
 @inproceedings{reference1,
  author = "Bernal-Romero, Juan Carlos and Ramírez-Cortés, Juan Manuel",
- booktitle = "", 
- title = "An open-access database of lead-I ECG signals with practical variability scenarios", 
+ booktitle = "2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)", 
+ title = "An open-access database of lead-{I} {ECG} signals with practical variability scenarios", 
  year = "2024",
  volume = "",
  number = "",
