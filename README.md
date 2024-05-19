@@ -3,7 +3,7 @@ License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ "CC-BY-4.0")
 When using this database (repository), cite the original publication:
 ```
 @inproceedings{reference1,
- author = "Bernal-Romero, Juan Carlos and Ramírez-Cortés, Juan Manuel",
+ author = "Bernal-Romero, Juan Carlos and Ramirez-Cortes, Juan Manuel",
  booktitle = "2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)", 
  title = "An open-access database of lead-{I} {ECG} signals with practical variability scenarios", 
  year = "2024",
