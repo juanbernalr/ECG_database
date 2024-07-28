@@ -9,9 +9,10 @@ When using this database (repository), cite the original publication:
  year = "2024",
  volume = "",
  number = "",
- pages = "",
+ pages = "543-548",
  keywords = "ECG database; Lead-I ECG; Intra-user variability; ECG biometric system; ECG morphology variability",
- doi=""}
+ doi="10.1109/CBMS61543.2024.00096"
+}
 ```
 
 ------------
@@ -28,6 +29,12 @@ The **5620 raw recordings** have a sampling rate of **125 Hz** and a resolution 
 ## Labeled information for each user
 
 The files **Database_information.ods** and **Database_information.xlsx** have the same information. This information consists of sex, age, variability scenarios, acquisition postures, heart medical antecedents, heart rhythm, smoking habits and observations of the ECG signals for each subject identified with a number from **1** to **562**.
+
+On the other hand, the **data_Rpeak** folder contains annotations of the R peaks detected for each ECG observation. 
+
+Finally, the document **Consolidated_database.pdf** is a presentation of the database with relevant information.
+
+**Additional note:** the last 22 individuals in the database (541 through 562) present different acquisition postures. In the first eight observations, the persons are in a sitting posture; in the ninth observation, the persons are walking in a stationary manner (standing); and in the last observation, the persons are running in a stationary manner (standing).
 
 ------------
 ## Read database from Python
